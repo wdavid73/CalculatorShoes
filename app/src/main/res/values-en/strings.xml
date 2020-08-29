@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator of Shoes</string>
+    <string name="title">CALCULATOR</string>
+    <string name="btn_Calcular">Calculate Price</string>
+    <string name="quantity">Input a quantity</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="type_shoes_shoe">Shoe</string>
+    <string name="type_shoes_classic">Classic</string>
+    <string name="brand_nike">Nike</string>
+    <string name="brand_adida">Adidas</string>
+    <string name="brand_puma">Puma</string>
+    <string name="gender_select">Choose a gender</string>
+    <string name="type_select">Choose a type of shoe</string>
+    <string name="brand_select">Choose a brand</string>
+    <string name="validate_number">Please enter a number valid</string>
+    <string name="btnClear">Clear</string>
+    <string name="validate_selected_gender">Please Choose a Gender</string>
+    <string name="validate_selected_type">Please Choose a Type of shoes</string>
+    <string name="validated_selected_brand">Please Choose a Brand of Shoes</string>
+</resources>

@@ -1,3 +1,45 @@
 <resources>
-    <string name="app_name">CalculadoraZapatos</string>
+    <string name="app_name">Calculadora de Zapatos</string>
+    <string name="title">CALCULADORA</string>
+    <string name="btn_Calcular">Calcular precio</string>
+    <string name="btnClear">Limpiar</string>
+    <string name="quantity">ingrese una cantidad</string>
+
+    <string name="gender_select">Seleccione un Genero</string>
+    <string name="gender_male">Masculino</string>
+    <string name="gender_female">Femenino</string>
+
+    <string name="type_select">Seleccione un Tipo de Zapato</string>
+    <string name="type_shoes_shoe">Zapatilla</string>
+    <string name="type_shoes_classic">Clasico</string>
+
+    <string name="brand_select">Seleccione un Marca</string>
+    <string name="brand_nike">Nike</string>
+    <string name="brand_adida">Adidas</string>
+    <string name="brand_puma">Puma</string>
+
+    <string name="validate_number">Porfavor Ingrese un Numero Valido</string>
+    <string name="validate_selected_gender">Porfavor Elija un Genero</string>
+    <string name="validate_selected_type">Porfavor Elija un Tipo de zapato</string>
+    <string name="validated_selected_brand">Porfavor Elija una Marca de zapata</string>
+
+    <string-array name="genders">
+        <item>@string/gender_select</item>
+        <item>@string/gender_male</item>
+        <item>@string/gender_female</item>
+    </string-array>
+
+    <string-array name="types">
+        <item>@string/type_select</item>
+        <item>@string/type_shoes_classic</item>
+        <item>@string/type_shoes_shoe</item>
+    </string-array>
+
+    <string-array name="brands">
+        <item>@string/brand_select</item>
+        <item>@string/brand_nike</item>
+        <item>@string/brand_adida</item>
+        <item>@string/brand_puma</item>
+    </string-array>
+
 </resources>
